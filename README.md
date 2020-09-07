@@ -47,9 +47,10 @@ I'm working as a QA Specialist @ [Eskimi DSP][eskimi]! 🏢 My friends and famil
 [<img align="top" alt="Website" width="30px" src="https://github.com/saumiko/saumiko/blob/master/icons/globe.png?raw=true" />][website]
 [<img align="top" alt="E-Mail" width="30px" src="https://github.com/saumiko/saumiko/blob/master/icons/email.png?raw=true" />][email]
 [<img align="top" alt="Whatsapp" width="30px" src="https://github.com/saumiko/saumiko/blob/master/icons/whatsapp.png?raw=true" />][whatsapp]
-[<img align="top" alt="Website" width="30px" src="https://github.com/saumiko/saumiko/blob/master/icons/facebook.png?raw=true" />][facebook]
+[<img align="top" alt="Messenger" width="30px" src="https://github.com/saumiko/saumiko/blob/master/icons/messenger.png?raw=true" />][messenger]
+[<img align="top" alt="Facebook" width="30px" src="https://github.com/saumiko/saumiko/blob/master/icons/facebook.png?raw=true" />][facebook]
 [<img align="top" alt="LinkedIn" width="30px" src="https://github.com/saumiko/saumiko/blob/master/icons/linkedin.png?raw=true" />][linkedin]
-[<img align="top" alt="Website" width="30px" src="https://github.com/saumiko/saumiko/blob/master/icons/instagram.png?raw=true" />][instagram]
+[<img align="top" alt="Instagram" width="30px" src="https://github.com/saumiko/saumiko/blob/master/icons/instagram.png?raw=true" />][instagram]
 
 
 [eskimi]: https://business.eskimi.com
@@ -59,6 +60,7 @@ I'm working as a QA Specialist @ [Eskimi DSP][eskimi]! 🏢 My friends and famil
 [email]: mailto:saumik@asifmohai.men
 [phone]: tel:+8801779099275
 [facebook]: https://fb.com/saumiko
+[messenger]: https://m.me/saumiko
 [instagram]: https://instagram.com/saumiko
 [linkedin]: https://linkedin.com/in/saumiko
 [skype]: skype:saumikbksp?call
