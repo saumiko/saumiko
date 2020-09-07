@@ -38,7 +38,7 @@ I'm working as a QA Specialist @ [Eskimi DSP][eskimi]! 🏢 My friends and famil
 
 
 ## GitHub Stats 📈
-[![Asif's Github Stats](https://github-readme-stats.vercel.app/api?username=saumiko&show_icons=true&include_all_commits=true&hide=stars,contribs&count_private=true)](https://github.com/saumiko)
+[![Asif's Github Stats](https://github-readme-stats-one-lovat.vercel.app/api?username=saumiko&show_icons=true&include_all_commits=true&hide=stars,contribs&count_private=true)](https://github.com/saumiko)
 
 
 
