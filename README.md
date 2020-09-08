@@ -51,10 +51,12 @@ I'm working as a QA Specialist @ [Eskimi DSP][eskimi]! 🏢  My friends and fami
 [<img align="top" alt="Messenger" width="30px" src="https://github.com/saumiko/saumiko/blob/master/icons/messenger.png?raw=true" />][messenger]
 [<img align="top" alt="Facebook" width="30px" src="https://github.com/saumiko/saumiko/blob/master/icons/facebook.png?raw=true" />][facebook]
 [<img align="top" alt="LinkedIn" width="30px" src="https://github.com/saumiko/saumiko/blob/master/icons/linkedin.png?raw=true" />][linkedin]
-[<img align="top" alt="Instagram" width="30px" src="https://github.com/saumiko/saumiko/blob/master/icons/instagram.png?raw=true" />][instagram]
+[<img align="top" alt="Instagram" width="30px" src="https://github.com/saumiko/saumiko/blob/master/icons/instagram.png?raw=true" />][instagram]  
 
-## Now Playing 🎧
-[<img src="https://spotify-now-playing-bb7ne9mcn.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/amohaimen?si=iphpx1n_RjCbpdYzZ4MtKg)
+
+## Music 🎧 & My day ⛱️ 
+[<img align="top" src="https://spotify-now-playing-bb7ne9mcn.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350px" />](https://open.spotify.com/user/amohaimen?si=iphpx1n_RjCbpdYzZ4MtKg)  
+[<img align="top" src="https://weather-readme.vercel.app/api/weather" alt="Weather" width="100%" />](#)
 
 [eskimi]: https://business.eskimi.com
 [tigerit]: http://www.tigerit.com
