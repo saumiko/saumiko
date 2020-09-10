@@ -55,8 +55,8 @@ I'm working as a QA Specialist @ [Eskimi DSP][eskimi]! 🏢  My friends and fami
 
 
 ## Music 🎧 & My day ⛱️ 
-[<img align="top" src="https://spotify-now-playing-bb7ne9mcn.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350px" />](https://open.spotify.com/user/amohaimen?si=iphpx1n_RjCbpdYzZ4MtKg)  
-[<img align="top" src="https://weather-readme.vercel.app/api/weather" alt="Weather" width="100%" />](#)
+[<img align="top" src="https://spotify-now-playing-bb7ne9mcn.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350px" />](https://open.spotify.com/user/amohaimen?si=iphpx1n_RjCbpdYzZ4MtKg)
+[<img align="right" src="https://weather-readme.vercel.app/api/weather" alt="Weather" width="45%" />](#)
 
 [eskimi]: https://business.eskimi.com
 [tigerit]: http://www.tigerit.com
