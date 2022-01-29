@@ -1,5 +1,5 @@
 # Hi there, I'm [Asif Mohaimen][website]! 👋
-[![Check my CV](https://img.shields.io/badge/CV-Check%20My%20CV-blue?style=for-the-badge)](https://asifmohai.men/CV/Asif_Mohaimen.pdf)&nbsp; &nbsp; [![Check my Résumé](https://img.shields.io/badge/R%C3%A9sum%C3%A9-Check%20My%20R%C3%A9sum%C3%A9-blue?style=for-the-badge)](https://asifmohai.men/resume/Asif_Mohaimen.pdf)
+[![Check my CV](https://img.shields.io/badge/CV-Check%20My%20CV-blue?style=for-the-badge)](https://asifmohai.men/CV/Asif_Mohaimen.pdf)&nbsp; &nbsp; [![Check my Résumé](https://img.shields.io/badge/R%C3%A9sum%C3%A9-Check%20My%20R%C3%A9sum%C3%A9-blue?style=for-the-badge)](https://asifmohai.men/ProResume/Asif_Mohaimen.pdf)
 
 
 I'm working as a QA Specialist @ [Eskimi DSP][eskimi]! 🏢  My friends and family call me Saumik. FYI, that's my nickname 😀. As a CS graduate, I spend most of the day with my computer.👨‍💻  It's like my own window to look at the universe. 🔭  When I stare at that beautiful view I mostly try to focus on my unexplored areas of computing technologies. 🌌   I get amused everytime I learn something new. 🤗
@@ -62,7 +62,7 @@ I'm working as a QA Specialist @ [Eskimi DSP][eskimi]! 🏢  My friends and fami
 [tigerit]: http://www.tigerit.com
 [sust]: https://www.sust.edu
 [website]: https://asifmohai.men
-[email]: mailto:saumik@asifmohai.men
+[email]: mailto:hi@asifmohai.men
 [phone]: tel:+8801779099275
 [facebook]: https://fb.com/saumiko
 [messenger]: https://m.me/saumiko
