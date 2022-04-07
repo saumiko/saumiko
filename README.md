@@ -48,6 +48,7 @@ I'm working as a QA Specialist @ [Eskimi DSP][eskimi]! 🏢  My friends and fami
 [<img align="top" alt="Website" width="30px" src="https://github.com/saumiko/saumiko/blob/master/icons/globe.png?raw=true" />][website]
 [<img align="top" alt="E-Mail" width="30px" src="https://github.com/saumiko/saumiko/blob/master/icons/email.png?raw=true" />][email]
 [<img align="top" alt="Whatsapp" width="30px" src="https://github.com/saumiko/saumiko/blob/master/icons/whatsapp.png?raw=true" />][whatsapp]
+[<img align="top" alt="Keybase" width="30px" src="https://github.com/saumiko/saumiko/blob/master/icons/keybase.png?raw=true" />][keybase]
 [<img align="top" alt="Messenger" width="30px" src="https://github.com/saumiko/saumiko/blob/master/icons/messenger.png?raw=true" />][messenger]
 [<img align="top" alt="Facebook" width="30px" src="https://github.com/saumiko/saumiko/blob/master/icons/facebook.png?raw=true" />][facebook]
 [<img align="top" alt="LinkedIn" width="30px" src="https://github.com/saumiko/saumiko/blob/master/icons/linkedin.png?raw=true" />][linkedin]
@@ -86,3 +87,4 @@ I'm working as a QA Specialist @ [Eskimi DSP][eskimi]! 🏢  My friends and fami
 [ubuntu]: https://ubuntu.com
 [windows]: https://www.microsoft.com/en-us/windows
 [android]: https://www.android.com
+[keybase]: https://keybase.io/saumiko
