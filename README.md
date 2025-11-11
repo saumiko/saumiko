@@ -5,7 +5,17 @@
 I am working as an Advisory Performance Engineer @ IBM Watson! 🏢  My friends and family call me Saumik. FYI, that's my nickname 😀. As a CS graduate, I spend most of the day with my computer.👨‍💻  It's like my own window to look at the universe. 🔭  When I stare at that beautiful view I mostly try to focus on my unexplored areas of computing technologies. 🌌   I get amused everytime I learn something new. 🤗
 
 ## Organizations 🏢 
-[<img align="top" alt="IBM" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IBM_logo.svg/960px-IBM_logo.svg.png?20250604110737" />][IBM]&nbsp; &nbsp; [<img align="top" alt="Scopely" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Scopely_logo.svg/2560px-Scopely_logo.svg.png" />][Scopely]&nbsp; &nbsp; [<img align="top" alt="Startbahn" width="100px" src="https://startbahn.io/images/logo_black.svg" />][startbahn]&nbsp; &nbsp; [<img align="top" alt="Eskimi" width="100px" src="https://github.com/saumiko/saumiko/blob/master/icons/eskimi.png?raw=true" />][eskimi]&nbsp; &nbsp; [<img align="top" alt="TigerIT" width="100px" src="https://github.com/saumiko/saumiko/blob/master/icons/tigerit.png?raw=true" />][tigerit]&nbsp; &nbsp; [<img align="top" alt="SUST" height="35px" src="https://github.com/saumiko/saumiko/blob/master/icons/sust.png?raw=true" />][sust]
+[![IBM](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IBM_logo.svg/960px-IBM_logo.svg.png?20250604110737)](https://www.ibm.com/)
+&nbsp;&nbsp;
+[![Scopely](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Scopely_logo.svg/2560px-Scopely_logo.svg.png)](https://scopely.com/)
+&nbsp;&nbsp;
+[![Startbahn](https://startbahn.io/images/logo_black.svg)](https://startbahn.io/)
+&nbsp;&nbsp;
+[![Eskimi](https://github.com/saumiko/saumiko/blob/master/icons/eskimi.png?raw=true)](https://www.eskimi.com/)
+&nbsp;&nbsp;
+[![TigerIT](https://github.com/saumiko/saumiko/blob/master/icons/tigerit.png?raw=true)](https://www.tigerit.com/)
+&nbsp;&nbsp;
+[![SUST](https://github.com/saumiko/saumiko/blob/master/icons/sust.png?raw=true)](https://www.sust.edu/)
 
 
 ## Skills 💪
