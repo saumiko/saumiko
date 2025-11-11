@@ -2,10 +2,10 @@
 [![Check my CV](https://img.shields.io/badge/CV-Check%20My%20CV-blue?style=for-the-badge)](https://asifmohai.men/CV/Asif_Mohaimen.pdf)&nbsp; &nbsp; [![Check my Résumé](https://img.shields.io/badge/R%C3%A9sum%C3%A9-Check%20My%20R%C3%A9sum%C3%A9-blue?style=for-the-badge)](https://asifmohai.men/ProResume/Asif_Mohaimen.pdf)
 
 
-I was working as a QA Specialist @ [Eskimi DSP][eskimi]! 🏢  My friends and family call me Saumik. FYI, that's my nickname 😀. As a CS graduate, I spend most of the day with my computer.👨‍💻  It's like my own window to look at the universe. 🔭  When I stare at that beautiful view I mostly try to focus on my unexplored areas of computing technologies. 🌌   I get amused everytime I learn something new. 🤗
+I am working as an Advisory Performance Engineer @ IBM Watson! 🏢  My friends and family call me Saumik. FYI, that's my nickname 😀. As a CS graduate, I spend most of the day with my computer.👨‍💻  It's like my own window to look at the universe. 🔭  When I stare at that beautiful view I mostly try to focus on my unexplored areas of computing technologies. 🌌   I get amused everytime I learn something new. 🤗
 
 ## Organizations 🏢 
-[<img align="top" alt="Eskimi" width="100px" src="https://github.com/saumiko/saumiko/blob/master/icons/eskimi.png?raw=true" />][eskimi]&nbsp; &nbsp; [<img align="top" alt="Eskimi" width="100px" src="https://github.com/saumiko/saumiko/blob/master/icons/tigerit.png?raw=true" />][tigerit]&nbsp; &nbsp; [<img align="top" alt="SUST" height="35px" src="https://github.com/saumiko/saumiko/blob/master/icons/sust.png?raw=true" />][sust]
+[<img align="top" alt="IBM" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IBM_logo.svg/960px-IBM_logo.svg.png?20250604110737" />][IBM]&nbsp; &nbsp; [<img align="top" alt="Scopely" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Scopely_logo.svg/2560px-Scopely_logo.svg.png" />][Scopely]&nbsp; &nbsp; [<img align="top" alt="Startbahn" width="100px" src="https://startbahn.io/images/logo_black.svg" />][startbahn]&nbsp; &nbsp; [<img align="top" alt="Eskimi" width="100px" src="https://github.com/saumiko/saumiko/blob/master/icons/eskimi.png?raw=true" />][eskimi]&nbsp; &nbsp; [<img align="top" alt="TigerIT" width="100px" src="https://github.com/saumiko/saumiko/blob/master/icons/tigerit.png?raw=true" />][tigerit]&nbsp; &nbsp; [<img align="top" alt="SUST" height="35px" src="https://github.com/saumiko/saumiko/blob/master/icons/sust.png?raw=true" />][sust]
 
 
 ## Skills 💪
