@@ -7,9 +7,9 @@ I am working as an Advisory Performance Engineer @ IBM Watson! 🏢  My friends 
 ## Organizations 🏢 
 [<img align="top" alt="IBM" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IBM_logo.svg/960px-IBM_logo.svg.png?20250604110737" />](https://www.ibm.com/)
 &nbsp;&nbsp;
-[<img align="top" alt="Scopely" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Scopely_logo.svg/2560px-Scopely_logo.svg.png" />](https://scopely.com/)
+[<img align="top" alt="Scopely" width="100px" src="https://github.com/saumiko/saumiko/blob/master/icons/scopely.png?raw=true" />](https://scopely.com/)
 &nbsp;&nbsp;
-[<img align="top" alt="Startbahn" width="100px" src="https://startbahn.io/images/logo_black.svg" />](https://startbahn.io/)
+[<img align="top" alt="Startbahn" width="100px" src="https://github.com/saumiko/saumiko/blob/master/icons/startbahn.jpg?raw=true" />](https://startbahn.io/)
 &nbsp;&nbsp;
 [<img align="top" alt="Eskimi" width="100px" src="https://github.com/saumiko/saumiko/blob/master/icons/eskimi.png?raw=true" />](https://www.eskimi.com/)
 &nbsp;&nbsp;
