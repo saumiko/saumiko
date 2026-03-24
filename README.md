@@ -75,13 +75,13 @@ I am working as an Advisory Performance Engineer @ IBM Watson! 🏢  My friends 
 [sust]: https://www.sust.edu
 [website]: https://asifmohai.men
 [email]: mailto:hi@asifmohai.men
-[phone]: tel:+8801779099275
+[phone]: tel:+353876500795
 [facebook]: https://fb.com/saumiko
 [messenger]: https://m.me/saumiko
 [instagram]: https://instagram.com/saumiko
 [linkedin]: https://linkedin.com/in/saumiko
 [skype]: skype:saumikbksp?call
-[whatsapp]: https://api.whatsapp.com/send?phone=8801779099275&text=Hello%20Asif!%20Nice%20to%20meet%20you!
+[whatsapp]: https://api.whatsapp.com/send?phone=353876500795&text=Hello%20Asif!%20Nice%20to%20meet%20you!
 [java]: https://www.java.com
 [python]: https://www.python.org
 [selenium]: https://www.seleniumhq.org/projects/webdriver
