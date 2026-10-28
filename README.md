@@ -67,7 +67,10 @@ I am working as an Advisory Performance Engineer @ IBM Watson! 🏢  My friends 
 
 
 ## Music 🎧 & My day ⛱️ 
-<table><tr><td width="50%" valign="top"><a href="https://open.spotify.com/user/amohaimen?si=iphpx1n_RjCbpdYzZ4MtKg"><img src="https://spotify-now-playing-topaz.vercel.app/" alt="Spotify Now Playing" width="480" /></a></td><td width="50%" valign="top"><a href="https://openweathermap.org/city/2964574"><img src="https://weather-readme.vercel.app/api/weather" alt="Weather in Dublin" width="480" /></a></td></tr></table>
+<p align="center">
+  <a href="https://open.spotify.com/user/amohaimen?si=iphpx1n_RjCbpdYzZ4MtKg"><img src="https://spotify-now-playing-topaz.vercel.app/" alt="Spotify Now Playing" width="49%" /></a>
+  <a href="https://openweathermap.org/city/2964574"><img src="https://weather-readme.vercel.app/api/weather" alt="Weather in Dublin" width="49%" /></a>
+</p>
 
 [eskimi]: https://business.eskimi.com
 [tigerit]: http://www.tigerit.com
