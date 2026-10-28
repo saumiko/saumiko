@@ -47,13 +47,6 @@ I am working as an Advisory Performance Engineer @ IBM Watson! 🏢  My friends 
 [<img align="top" alt="Windows" width="26px" src="https://github.com/saumiko/saumiko/blob/master/icons/windows.svg?raw=true" />][windows]
 [<img align="top" alt="Android" width="26px" src="https://github.com/saumiko/saumiko/blob/master/icons/android.svg?raw=true" />][android]
 
-
-
-## GitHub Stats 📈
-[![Asif's Github Stats](https://github-readme-stats-one-lovat.vercel.app/api?username=saumiko&show_icons=true&include_all_commits=true&hide=stars,contribs&count_private=true)](https://github.com/saumiko)
-
-
-
 ## Contact 🤝
 
 [<img align="top" alt="Website" width="30px" src="https://github.com/saumiko/saumiko/blob/master/icons/globe.png?raw=true" />][website]
