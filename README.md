@@ -68,7 +68,7 @@ I am working as an Advisory Performance Engineer @ IBM Watson! 🏢  My friends 
 
 ## Music 🎧 & My day ⛱️ 
 <p align="center">
-  <a href="https://open.spotify.com/user/amohaimen?si=iphpx1n_RjCbpdYzZ4MtKg"><img src="https://spotify-now-playing-topaz.vercel.app/" alt="Spotify Now Playing" width="49%" /></a>
+  <a href="https://spotify-now-playing-topaz.vercel.app/track"><img src="https://spotify-now-playing-topaz.vercel.app/" alt="Spotify Now Playing" width="49%" /></a>
   <a href="https://openweathermap.org/city/2964574"><img src="https://weather-readme.vercel.app/api/weather" alt="Weather in Dublin" width="49%" /></a>
 </p>
 
